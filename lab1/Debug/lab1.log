@@ -1,0 +1,6 @@
+﻿  Complex.cpp
+C:\Users\Maks\Documents\НГТУ\информатика\лабы 3 семак\lab1\lab1\Complex.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  lab1.cpp
+C:\Users\Maks\Documents\НГТУ\информатика\лабы 3 семак\lab1\lab1\Tests.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  lab1.vcxproj -> C:\Users\Maks\Documents\НГТУ\информатика\лабы 3 семак\lab1\Debug\lab1.exe
